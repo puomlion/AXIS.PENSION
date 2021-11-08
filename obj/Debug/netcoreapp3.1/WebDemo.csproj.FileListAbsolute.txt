@@ -134,3 +134,5 @@ C:\Users\Samuel\Desktop\Globalization-and-Localization-in-ASP.NET-Core-master\We
 C:\Users\Samuel\Desktop\Globalization-and-Localization-in-ASP.NET-Core-master\WebDemo\WebDemo\obj\Debug\netcoreapp3.1\WebDemo.dll
 C:\Users\Samuel\Desktop\Globalization-and-Localization-in-ASP.NET-Core-master\WebDemo\WebDemo\obj\Debug\netcoreapp3.1\WebDemo.pdb
 C:\Users\Samuel\Desktop\Globalization-and-Localization-in-ASP.NET-Core-master\WebDemo\WebDemo\obj\Debug\netcoreapp3.1\WebDemo.genruntimeconfig.cache
+C:\Users\Samuel\Desktop\Globalization-and-Localization-in-ASP.NET-Core-master\WebDemo\WebDemo\obj\Debug\netcoreapp3.1\WebDemo.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\Globalization-and-Localization-in-ASP.NET-Core-master\WebDemo\WebDemo\obj\Debug\netcoreapp3.1\WebDemo.GeneratedMSBuildEditorConfig.editorconfig
